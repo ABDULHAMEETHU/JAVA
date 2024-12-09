@@ -5,7 +5,7 @@ class Add
 			{
 				int myname,secondnumber,add;
 				Scanner myobj = new Scanner(System.in);
-				System.out.println("Enter 1 number : ");
+				System.out.println("Enter 1 numberr : ");
 				myname = myobj.nextInt();
 				System.out.println("Enter 2 number : ");
 				secondnumber = myobj.nextInt();	
